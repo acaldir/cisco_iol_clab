@@ -1,0 +1,3 @@
+name: Static-VTI-Point-To-Point-tunnel
+r1         e0/1       r2              e0/1
+r2         e0/2       r3              e0/1
